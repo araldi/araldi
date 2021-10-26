@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @araldi, current postdoctoral fellow and lecturer at ETH Zurich
 - 👀 I’m interested in data science for biomedical research: genes, biomarkers, clinical data and personalized medicine
 - 📫 Reach me at elisa.araldi@gmail.com
-- 🐍 python gal
+- 🐍 mainly
+
 always looking to learn new things
+
 always excited to work on new things with new people
 
 
