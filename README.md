@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @araldi, current postdoctoral fellow and lecturer at ETH Zurich
+- 👋 Hi, I’m Elisa @araldi, current postdoctoral fellow and lecturer at ETH Zurich
 - 👀 I’m interested in data science for biomedical research: genes, biomarkers, clinical data and personalized medicine
 - 📫 Reach me at elisa.araldi@gmail.com
 - 🐍 mainly
