@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elisa @Araldi, current postdoctoral fellow and lecturer at ETH Zurich
+- 👋 Hi, I’m Elisa @Araldi, Junior Professor of Computational Systems Medicine
 - 👀 I’m interested in data science for biomedical research: genes, biomarkers, clinical data and personalized medicine
 - 📫 Reach me at elisa.araldi@gmail.com
 - 🐍 mainly
