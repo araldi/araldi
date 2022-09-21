@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Elisa @Araldi, Junior Professor of Computational Systems Medicine
+- 👋 Hi, I’m Elisa @Araldi, Junior Professor of Computational Systems Medicine @Universitätsmedizin Mainz
 - 👀 I’m interested in data science for biomedical research: genes, biomarkers, clinical data and personalized medicine
 - 📫 Reach me at elisa.araldi@gmail.com
 - 🐍 mainly
