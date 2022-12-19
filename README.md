@@ -3,9 +3,6 @@
 - 📫 Reach me at elisa.araldi@gmail.com
 - 🐍 mainly
 
-always looking to learn new things
-
-always excited to work on new things with new people
 
 
 <!---
